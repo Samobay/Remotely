@@ -24,7 +24,7 @@ on:
   workflow_dispatch:
     inputs:
       serverUrl:
-        description: 'remotely.samobay.tn'     
+        description: 'https://remotely.samobay.tn'     
         required: true
       rid:
         description: 'Samobay Server Runtime Identifier'     
