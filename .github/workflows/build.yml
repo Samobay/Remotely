@@ -27,7 +27,7 @@ on:
         description: 'https://remotely.samobay.tn'     
         required: true
       rid:
-        description: 'Samobay Server Runtime Identifier'     
+        description: 'Server Runtime Identifier'     
         required: false
         default: "linux-x64"
 
