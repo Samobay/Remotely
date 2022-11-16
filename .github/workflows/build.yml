@@ -24,10 +24,10 @@ on:
   workflow_dispatch:
     inputs:
       serverUrl:
-        description: 'Server URL'     
+        description: 'remotely.samobay.tn'     
         required: true
       rid:
-        description: 'Server Runtime Identifier'     
+        description: 'Samobay Server Runtime Identifier'     
         required: false
         default: "linux-x64"
 
